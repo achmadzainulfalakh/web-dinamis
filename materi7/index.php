@@ -7,67 +7,6 @@ include "./page/header.php";
 <main class="mt-5 pt-5">
 	<div class="container">
 
-		<!--Section: Jumbotron-->
-            <section class="card wow fadeIn" style="background-image: url(https://mdbootstrap.com/img/Photos/Others/gradient1.jpg);">
-
-                <!-- Content -->
-                <div class="card-body text-white text-center py-5 px-5 my-5">
-
-                    <h1 class="mb-4">
-                        <strong>Learn Bootstrap 4 with MDB</strong>
-                    </h1>
-                    <p>
-                        <strong>Best & free guide of responsive web design</strong>
-                    </p>
-                    <p class="mb-4">
-                        <strong>The most comprehensive tutorial for the Bootstrap 4. Loved by over 500 000 users. Video and written
-                            versions available. Create your own, stunning website.</strong>
-                    </p>
-                    <a target="_blank" href="https://mdbootstrap.com/bootstrap-tutorial/" class="btn btn-outline-white btn-lg">Start free tutorial
-                        <i class="fa fa-graduation-cap ml-2"></i>
-                    </a>
-
-                </div>
-                <!-- Content -->
-            </section>
-            <!--Section: Jumbotron-->
-
-            <!--Card : Dynamic content wrapper-->
-                        <div class="card mb-4 text-center wow fadeIn">
-
-                            <div class="card-header">Do you want to get informed about new articles?</div>
-
-                            <!--Card content-->
-                            <div class="card-body">
-
-                                <!-- Default form login -->
-                                <form>
-
-                                    <!-- Default input email -->
-                                    <label for="defaultFormEmailEx" class="grey-text">Your email</label>
-                                    <input type="email" id="defaultFormLoginEmailEx" class="form-control">
-
-                                    <br>
-
-                                    <!-- Default input password -->
-                                    <label for="defaultFormNameEx" class="grey-text">Your name</label>
-                                    <input type="text" id="defaultFormNameEx" class="form-control">
-
-                                    <div class="text-center mt-4">
-                                        <button class="btn btn-info btn-md" type="submit">Sign up</button>
-                                    </div>
-                                </form>
-                                <!-- Default form login -->
-
-                            </div>
-
-                        </div>
-                        <!--/.Card : Dynamic content wrapper-->
-
-            <hr class="my-5">
-
-            
-
 		<!--Section: Cards-->
 		<section class="text-center">
 

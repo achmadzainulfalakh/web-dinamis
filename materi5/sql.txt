@@ -5,14 +5,13 @@ create table blog(
 	judul text not null,
 	konten text not null,
 	jenis varchar(50),
-	featuredimage varchar(1000),
 	tanggal timestamp
 );
 
-INSERT INTO `blog` (`id`, `judul`, `konten`, `jenis`, `featuredimage`, `tanggal`) VALUES
-(null, 'MDB Quick Start', 'Get started with MDBootstrap, the world''s most popular Material Design framework for building responsive, mobile-first sites.', 'post','<iframe width="350" height="197" src="https://www.youtube.com/embed/cXTThxoywNQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>', null),
-(null, 'Bootstrap Automation', 'Learn how to create a smart website which learns your user and reacts properly to his behavior.', 'post','<img src="https://mdbootstrap.com/wp-content/uploads/2017/11/brandflow-tutorial-fb.jpg" class="card-img-top" alt="">', null),
-(null, 'Push notifications', 'Push messaging provides a simple and effective way to re-engage with your users and in this tutorial you''ll learn how to add push notifications to your web app', 'post','<img src="https://mdbootstrap.com/wp-content/uploads/2018/01/push-fb.jpg" class="card-img-top" alt="">', null),
-(null, 'MDB with Angular', 'Built with Angular 5, Bootstrap 4 and TypeScript. CLI version available.', 'post','<img src="https://mdbootstrap.com/img/Marketing/mdb-press-pack/mdb-angular.jpg" class="card-img-top" alt="">', null),
-(null, 'MDB with React', 'Based on the latest Bootstrap 4 and React 16.', 'post','<img src="https://mdbootstrap.com/img/Marketing/mdb-press-pack/mdb-react.jpg" class="card-img-top" alt="">', null),
-(null, 'MDB with Vue', 'Based on the latest Bootstrap 4 and Vue 2.5.7.', 'post','<img src="https://mdbootstrap.com/img/Marketing/mdb-press-pack/mdb-vue.jpg" class="card-img-top" alt="">', null);
+INSERT INTO `blog` (`id`, `judul`, `konten`, `jenis`, `tanggal`) VALUES
+(null, 'MDB Quick Start', 'Get started with MDBootstrap, the world''s most popular Material Design framework for building responsive, mobile-first sites.', 'post', null),
+(null, 'Bootstrap Automation', 'Learn how to create a smart website which learns your user and reacts properly to his behavior.', 'post', null),
+(null, 'Push notifications', 'Push messaging provides a simple and effective way to re-engage with your users and in this tutorial you''ll learn how to add push notifications to your web app', 'post', null),
+(null, 'MDB with Angular', 'Built with Angular 5, Bootstrap 4 and TypeScript. CLI version available.', 'post', null),
+(null, 'MDB with React', 'Based on the latest Bootstrap 4 and React 16.', 'post', null),
+(null, 'MDB with Vue', 'Based on the latest Bootstrap 4 and Vue 2.5.7.', 'post', null);
