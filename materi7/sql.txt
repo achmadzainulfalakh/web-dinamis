@@ -16,7 +16,3 @@ INSERT INTO `blog` (`id`, `judul`, `konten`, `jenis`, `featuredimage`, `tanggal`
 (null, 'MDB with Angular', 'Built with Angular 5, Bootstrap 4 and TypeScript. CLI version available.', 'post','<img src="https://mdbootstrap.com/img/Marketing/mdb-press-pack/mdb-angular.jpg" class="card-img-top" alt="">', null),
 (null, 'MDB with React', 'Based on the latest Bootstrap 4 and React 16.', 'post','<img src="https://mdbootstrap.com/img/Marketing/mdb-press-pack/mdb-react.jpg" class="card-img-top" alt="">', null),
 (null, 'MDB with Vue', 'Based on the latest Bootstrap 4 and Vue 2.5.7.', 'post','<img src="https://mdbootstrap.com/img/Marketing/mdb-press-pack/mdb-vue.jpg" class="card-img-top" alt="">', null);
-
-
-INSERT INTO `blog` (`id`, `judul`, `konten`, `jenis`, `featuredimage`, `tanggal`) VALUES
-(null, 'Material Design Bootstrap', 'Material Design Bootstrap', 'pagetitle','', null), (null, 'https://www.facebook.com/mdbootstrap', 'https://www.facebook.com/mdbootstrap', 'linkfacebook','', null),(null, 'https://twitter.com/MDBootstrap', 'https://twitter.com/MDBootstrap', 'linktwittwer','', null),(null, 'MDB', 'MDB', 'brand','', null);

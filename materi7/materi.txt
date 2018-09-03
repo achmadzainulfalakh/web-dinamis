@@ -1,5 +1,3 @@
 database
-looping
-kondisi keputusan
-increment
-contents
+image safe web
+featured image
