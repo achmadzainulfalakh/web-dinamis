@@ -1,0 +1,6 @@
+Materi 1
+Membuat File index.php
+Menampilkan tulisan menggunakan bahasa PHP dengan syntax print/echo
+
+Penjelasan: 
+file index.php adalah file yang pertama kali dibuka saat kita mengakses sebuah website.
