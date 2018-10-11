@@ -1,4 +1,4 @@
 <?php 
-print "text menggunakan print";
-echo "text menggunakan echo";
+print "text menggunakan print<br>";
+echo "text menggunakan echo<br>";
 ?>
