@@ -1,41 +1,41 @@
-# web-dinamis
+# web##dinamis
 Materi Web Dinamis
 
-Berisi tugas-tugas dari materi web dinamis. 
+Berisi tugas##tugas dari materi web dinamis. 
 
-- Materi 1
+## Materi 1
 file index
-- Materi 2
+## Materi 2
 Variabel dalam PHP
 Include
 Paging
-- Materi 3
+## Materi 3
 array
 array bertingkat
 looping
-- Materi 4
+## Materi 4
 POST
 GET
-- Materi 5
+## Materi 5
 kondisi keputusan / IF / Conditional Sentence
-- Materi 6
+## Materi 6
 database
-- Materi 7
+## Materi 7
 database
 image safe web
 featured image
-- Materi 8
+## Materi 8
 database
 looping
 increment
 contents
-- Materi 9
+## Materi 9
 database
 looping
 kondisi keputusan
 increment
 contents
 update
-- Materi 10
+## Materi 10
 Role Access/Pembatasan Hak Akses akun
-- Materi 11
+## Materi 11
